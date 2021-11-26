@@ -7,3 +7,11 @@ http://springboot-api-git-prabhupandian2k-dev.apps.sandbox.x8i5.p1.openshiftapps
 The response will be 
 
 ![Capture](https://user-images.githubusercontent.com/93876978/143464866-0a43703a-4019-4c3f-ad57-9a2c40845b6e.PNG)
+
+
+
+The same deployed heroku:
+by accessing below link you can see:
+
+
+https://springbootapi2.herokuapp.com/api/callsample
